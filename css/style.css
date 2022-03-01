@@ -123,3 +123,12 @@ figcaption{
   margin-bottom: 16px;
 }
 
+.button a {
+  color: white;
+  font-size: 10px;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  padding-left: 15px;
+  padding-top: 5px;
+}
+
