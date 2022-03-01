@@ -139,3 +139,11 @@ footer {
   width: 276px;
 }
 
+footer p {
+  color: white;
+  font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  margin-top: 15px;
+}
+
