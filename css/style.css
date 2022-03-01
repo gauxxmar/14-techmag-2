@@ -67,9 +67,15 @@ main {
 
 article{
   background-color: white;
-  padding-top: 13px;
+  padding-top: 21px;
   padding-left: 30px;
   padding-right: 30px;
 }
 
+article h2{
+  font-size: 16px;
+  font-weight: 800;
+  font-family: 'Montserrat', sans-serif;
+
+}
 
