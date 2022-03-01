@@ -47,7 +47,7 @@ main {
   padding-left: 30px;
 }
 
-.introduction h2{
+.introduction h2 {
   font-size: 16px;
   font-weight: 800;
   font-family: 'Montserrat', sans-serif;
@@ -56,7 +56,7 @@ main {
   color: #0d6a4a;
 }
 
-.introduction p{
+.introduction p {
   color: #0d6a4a;
   font-size: 16px;
   font-weight: 400;
@@ -65,19 +65,19 @@ main {
   padding-bottom: 46px;
 }
 
-article{
+article {
   background-color: white;
   padding: 17px 30px 12px;
   margin-top: 20px;
 }
 
-article h2{
+article h2 {
   font-size: 16px;
   font-weight: 800;
   font-family: 'Montserrat', sans-serif;
 }
 
-.informations{
+.informations {
   font-size: 12px;
   font-family: 'Open Sans', sans-serif;
   font-weight: 100;
@@ -85,20 +85,20 @@ article h2{
   color: #a0a0a0;
 }
 
-.date{
+.date {
   color: black;
 }
 
-.auteur{
+.auteur {
   color: #2afca6;
 }
 
-article p{
+article p {
   font-size: 16px;
   font-family: 'Open Sans', sans-serif;
 }
 
-figure{
+figure {
   margin: 0px 0px 32px;
   box-shadow: 0px 0px 5px 3px #e7e7e7;
 }
@@ -107,7 +107,7 @@ img {
   max-width: 100%;
 }
 
-figcaption{
+figcaption {
   font-size: 12px;
   font-family: 'Open Sans', sans-serif;
   font-weight: 100;
