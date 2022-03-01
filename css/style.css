@@ -44,5 +44,13 @@ main {
 
 .introduction {
   background-color: #2afca6;
+  padding-left: 30px;
+}
+
+.introduction h2{
+  font-size: 16px;
+  font-weight: 800;
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 30px;
 }
 
