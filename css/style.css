@@ -90,3 +90,12 @@ article h2{
   color: black;
 }
 
+.auteur{
+  color: #2afca6;
+}
+
+article p{
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+}
+
