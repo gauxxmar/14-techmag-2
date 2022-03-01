@@ -115,3 +115,11 @@ figcaption{
   padding: 6px 10px 5px;
 }
 
+.button {
+  background-color: #444444;
+  border-style: none;
+  width: 89px;
+  height: 23px;
+  margin-bottom: 16px;
+}
+
