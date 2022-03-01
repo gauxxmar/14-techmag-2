@@ -99,3 +99,12 @@ article p{
   font-family: 'Open Sans', sans-serif;
 }
 
+figure{
+  margin: 0px 0px 32px;
+  box-shadow: 1px 1px 10px 1px #cccccc;
+}
+
+img {
+  max-width: 100%;
+}
+
