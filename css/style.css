@@ -10,7 +10,7 @@ html {
 body {
   max-width: 320px;
   margin: auto;
-  background-color: white;
+  background-color: black;
 }
 
 header {
@@ -67,9 +67,8 @@ main {
 
 article{
   background-color: white;
-  padding-top: 21px;
-  padding-left: 30px;
-  padding-right: 30px;
+  padding: 17px 30px 12px;
+  margin-top: 20px;
 }
 
 article h2{
@@ -101,7 +100,7 @@ article p{
 
 figure{
   margin: 0px 0px 32px;
-  box-shadow: 1px 1px 10px 1px #cccccc;
+  box-shadow: 0px 0px 5px 3px #e7e7e7;
 }
 
 img {
@@ -120,7 +119,7 @@ figcaption{
   border-style: none;
   width: 89px;
   height: 23px;
-  margin-bottom: 16px;
+  margin-bottom: 20px;
 }
 
 .button a {
@@ -129,6 +128,6 @@ figcaption{
   font-family: 'Montserrat', sans-serif;
   text-decoration: none;
   padding-left: 15px;
-  padding-top: 5px;
+  padding-top: 10px;
 }
 
