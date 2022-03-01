@@ -147,3 +147,35 @@ footer p {
   margin-top: 15px;
 }
 
+.dimensions {
+  margin-top: 13px;
+}
+
+.dimensions_text {
+  padding-top: 5px;
+}
+
+.changement_taille {
+  padding-top: 3px;
+}
+
+.changement_dimensions {
+  padding-top: 4px;
+}
+
+.button_article {
+  background-color: #444444;
+  border-style: none;
+  width: 134px;
+  height: 23px;
+  margin-bottom: 20px;
+}
+
+.button_article a {
+  color: white;
+  font-size: 10px;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  padding-left: 15px;
+  padding-top: 10px;
+}
